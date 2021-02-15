@@ -1,6 +1,6 @@
 # Pixel Neighbor Relationship Histograms
 
-This program evaluates the intensity difference between two pixels based on a relationship selected by the user and generates a greyscale, RGB, HSV, and Lab histogram to illustrate the results.
+This Python script evaluates the intensity difference between two pixels based on a relationship selected by the user and generates a greyscale, RGB, HSV, and Lab histogram to illustrate the results.
 
 ## Installation
 
